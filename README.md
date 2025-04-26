@@ -32,7 +32,3 @@ Pensando nesse cenário, este curso foi concebido para guiar desenvolvedores com
 ### 🎯 Objetivo Final
 
 Ao concluir o curso, o desenvolvedor terá construído uma aplicação completa, passando por todas as etapas do desenvolvimento backend moderno. Mais do que isso, terá adquirido confiança e compreensão para iniciar e estruturar projetos próprios, utilizando boas práticas e ferramentas amplamente adotadas no mercado.
-
----
-
-Se desejar, posso ajudar a detalhar cada módulo, criar exercícios práticos e fornecer materiais de apoio. Gostaria de começar por algum módulo específico? 
