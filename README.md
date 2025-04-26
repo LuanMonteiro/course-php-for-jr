@@ -1,10 +1,6 @@
 # course-php-for-jr
 Curso para desenvolvedores Junior criarem projetos completos
 
-Claro! Vamos construir uma narrativa envolvente para o início do seu curso, destacando a jornada que os alunos percorrerão e os objetivos que alcançarão. Essa história servirá como introdução ao curso, motivando os desenvolvedores juniores a embarcarem nessa experiência de aprendizado.
-
----
-
 ## 📖 A Jornada do Desenvolvedor: Da Importação de CSV ao Mini Framework em PHP
 
 Imagine um desenvolvedor júnior, recém-ingressado no mundo da programação, com conhecimentos básicos de PHP, mas sem experiência em construir aplicações completas. Ele sabe escrever funções, entende estruturas de controle, mas quando se depara com a necessidade de criar um sistema do zero, sente-se perdido. Por onde começar? Como organizar o código? Quais boas práticas seguir?
